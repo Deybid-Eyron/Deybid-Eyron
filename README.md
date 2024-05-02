@@ -1,16 +1,23 @@
-### Hi there 👋
+## My GitHub Repository 📡
+### 👨‍💻 About Me 
+I'm an aspiring full stack developer based from Philippines. 🌏
 
-<!--
-**deybid-eyron/deybid-eyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently in my fourth year pursuing a BS in Information Technology. 🎓
 
-Here are some ideas to get you started:
+As of now, I'm a self-learning method enthusiast, constantly seeking to expand my skills and understanding of web development through hands-on projects and exploration. 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### 🎗️ Self Reminder
+10 years from now you will surely become someone, the big question is who?
+- What would you like to have?
+- Where do you want to go?
+- How much would you like to earn?
+
+These are some major question to ask.
+
+If you go to work on it now.
+
+Sure enough in a very short period of time you can take on a new direction to be the kind of person you want to be.
+> **Jim Rohn**  
+> ***Question you should ask yourself.***
