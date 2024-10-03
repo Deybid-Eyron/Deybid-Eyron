@@ -1,4 +1,4 @@
-## My GitHub Repository 📡
+<!-- ## My GitHub Repository 📡
 ### 👨‍💻 About Me 
 I'm an aspiring full stack developer based from Philippines. 🌏
 
@@ -21,3 +21,4 @@ If you go to work on it now.
 Sure enough in a very short period of time you can take on a new direction to be the kind of person you want to be.
 > **Jim Rohn**  
 > ***Question you should ask yourself.***
+-->
